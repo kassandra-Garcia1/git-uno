@@ -1,8 +1,2 @@
 debian
-linux mint
-ubuntu
-red hat
-centOS
-fedora
-manjaro
-alpine
+Linux Mint
