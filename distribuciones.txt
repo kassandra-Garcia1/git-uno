@@ -2,3 +2,4 @@ debian
 Linux Mint
 Ubuntu
 red hat
+centos
